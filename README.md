@@ -1,5 +1,5 @@
 # CidadesBrasileiras.json
-JSON contendo todas as cidades brasileiras contendo o seu id, id do estado, códiogo do IBGE, latitude, longitude e capital.
+JSON contendo todas as cidades brasileiras contendo o seu id, id do estado, código do IBGE, latitude, longitude e capital.
 
 Estrutura do JSON:
 
